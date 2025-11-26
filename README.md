@@ -1,16 +1,8 @@
 ---
-title: "Traffic Light Simulation using Reinforcement Learning"
+title: "Traffic Light RL Controller"
 emoji: 🚦
-colorFrom: red
-colorTo: green
 sdk: streamlit
 app_file: app.py
 port: 7860
-pinned: false
+pinned: true
 ---
-
-
-# Traffic Light Reinforcement Learning Simulator
-
-
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
