@@ -7,7 +7,7 @@ class DQN_Agent:
     Works for inference without TensorFlow.
     """
 
-    def __init__(self, model_path="models/dqn_weights.npz"):
+    def __init__(self, model_path="models/dqn_weights.h5"):
         data = np.load(model_path)
 
         self.W1 = data["W1"]
