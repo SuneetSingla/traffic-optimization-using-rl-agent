@@ -1,4 +1,0 @@
-# hf.yaml
-app_file: "app.py"
-sdk: "streamlit"
-port: 7860
