@@ -1,8 +1,10 @@
 ---
-title: "Traffic Light RL Controller"
+title: "Traffic Light Optimization using RL"
 emoji: 🚦
+colorFrom: red
+colorTo: green
 sdk: streamlit
 app_file: app.py
 port: 7860
-pinned: true
+pinned: false
 ---
